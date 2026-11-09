@@ -13,11 +13,11 @@ Welcome to my frontend development showcase! This repository is a centralized hu
 
 Here is a list of the projects currently built inside this repository:
 
-### 1. Application Form with Games Arena
+### 1. [Launch Application Form with Games Arena](https://github.io)
 *   **Description:** A structured form based on official application layouts and some best games description.
 *   **Key Learning:** Working with input types, semantic elements, and table structures.
 
 
-### 2. Tic-Tac-Toe Game
+### 2. [Launch Tic-Tac-Toe Game](https://github.io)
 *   **Description:** A classic, fully responsive 2-player board game.
 *   **Key Learning:** DOM manipulation, handling click events, and win/tie condition logic.
