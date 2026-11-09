@@ -18,6 +18,6 @@ Here is a list of the projects currently built inside this repository:
 *   **Key Learning:** Working with input types, semantic elements, and table structures.
 
 
-### 2. [Launch Tic-Tac-Toe Game](https://anit-kumar-16.github.io/web-dev-portfolio/tic-tac-toe game)
+### 2. [Launch Tic-Tac-Toe Game](https://anit-kumar-16.github.io/web-dev-portfolio/tic-tac-toe game/)
 *   **Description:** A classic, fully responsive 2-player board game.
 *   **Key Learning:** DOM manipulation, handling click events, and win/tie condition logic.
